@@ -1,1 +1,1 @@
-# slide-tutorial
+# slider-tutorial
